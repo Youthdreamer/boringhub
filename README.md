@@ -27,6 +27,6 @@
 
 1. 克隆项目到本地：
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:Youthdreamer/boringhub.git
    cd boringhub
    ```
